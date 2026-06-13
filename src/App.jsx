@@ -1,5 +1,5 @@
-import VestonCalculator from "./components/VestonCalculator";
+import GapSiApp from "./components/GapSiApp";
 
 export default function App() {
-  return <VestonCalculator />;
+  return <GapSiApp />;
 }
